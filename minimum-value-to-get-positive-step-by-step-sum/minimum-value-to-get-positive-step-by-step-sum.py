@@ -1,21 +1,19 @@
 class Solution:
     def minStartValue(self, nums: List[int]) -> int:
-
         startValue = 1
-        invalid = True
+        n = len(nums)
+        prefix = [nums[0]]
         
-        # Keep increasing startValue until its valid
+        for i in range(1,n):
+            prefix.append(prefix[-1] + nums[i])
+            
+        minimum = min(prefix)
         
-        while invalid:
-            invalid = False
-            runningTotal = startValue
+        if minimum < startValue:
+            return abs(minimum) + 1
+        else:
+            return startValue
+        
             
-            for num in nums:
-                runningTotal += num
-                if runningTotal < 1:
-                    startValue += 1  
-                    invalid = True
-                    break
-            
-        return startValue
+        
             
