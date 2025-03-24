@@ -8,9 +8,8 @@ class Solution:
                 freq[char] += 1
             else:
                 freq[char] = 1
+                
+            if len(freq) == 26:
+                return True
         
-        for char in lowercase_ascii:
-            if char not in freq:
-                return False
-            
-        return True
+        return False
