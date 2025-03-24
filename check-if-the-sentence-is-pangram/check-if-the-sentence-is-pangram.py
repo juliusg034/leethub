@@ -1,6 +1,5 @@
 class Solution:
     def checkIfPangram(self, sentence: str) -> bool:
-        lowercase_ascii = 'abcdefghijklmnopqrstuvwxyz'
         freq = {}
         
         for char in sentence:
