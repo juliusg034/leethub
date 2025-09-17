@@ -1,12 +1,10 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        count = {}
+        from collections import Counter
 
-        for num in nums:
-            if num in count:
-                count[num] += 1
-            else:
-                count[num] = 1
-            
-        first_k_keys = list(sorted(count.keys(), key=count.get, reverse=True))[:k]
-        return first_k_keys
+        count = Counter(nums)
+
+        return heapq.nlargest(k, count.keys(), key=count.get)
+
+
+
