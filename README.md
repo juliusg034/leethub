@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/juliusg034/leethub/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/juliusg034/leethub/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/juliusg034/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/juliusg034/leethub/tree/master/0217-contains-duplicate) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/juliusg034/leethub/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/juliusg034/leethub/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/juliusg034/leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/juliusg034/leethub/tree/master/0242-valid-anagram) |
@@ -70,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/juliusg034/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/juliusg034/leethub/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
