@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/juliusg034/leethub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/juliusg034/leethub/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/juliusg034/leethub/tree/master/0347-top-k-frequent-elements) |
+| [2058-concatenation-of-array](https://github.com/juliusg034/leethub/tree/master/2058-concatenation-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/juliusg034/leethub/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2721-sum-of-distances](https://github.com/juliusg034/leethub/tree/master/2721-sum-of-distances) |
 ## Math
@@ -86,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/juliusg034/leethub/tree/master/0015-3sum) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/juliusg034/leethub/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
