@@ -3,10 +3,7 @@ class Solution:
         n = len(nums)
         ans = [0] * (2*n)
 
-        i = 0
-        mod = n
-        while i < len(ans):
-            ans[i] = nums[i % mod]
-            i += 1
+        for i in range(2*n):
+            ans[i] = nums[i%n]
         
         return ans
