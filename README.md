@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/juliusg034/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/juliusg034/leethub/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/juliusg034/leethub/tree/master/0242-valid-anagram) |
+| [3019-furthest-point-from-origin](https://github.com/juliusg034/leethub/tree/master/3019-furthest-point-from-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/juliusg034/leethub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/juliusg034/leethub/tree/master/0347-top-k-frequent-elements) |
+| [3019-furthest-point-from-origin](https://github.com/juliusg034/leethub/tree/master/3019-furthest-point-from-origin) |
 ## Quickselect
 |  |
 | ------- |
