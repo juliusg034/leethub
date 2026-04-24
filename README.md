@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/juliusg034/leethub/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/juliusg034/leethub/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/juliusg034/leethub/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/juliusg034/leethub/tree/master/0645-set-mismatch) |
 | [1580-shuffle-the-array](https://github.com/juliusg034/leethub/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/juliusg034/leethub/tree/master/2058-concatenation-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/juliusg034/leethub/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/juliusg034/leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/juliusg034/leethub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/juliusg034/leethub/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/juliusg034/leethub/tree/master/0645-set-mismatch) |
 | [2721-sum-of-distances](https://github.com/juliusg034/leethub/tree/master/2721-sum-of-distances) |
 ## Sorting
 |  |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/juliusg034/leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/juliusg034/leethub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/juliusg034/leethub/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/juliusg034/leethub/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -93,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/juliusg034/leethub/tree/master/2058-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/juliusg034/leethub/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
