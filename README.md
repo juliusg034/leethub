@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/juliusg034/leethub/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/juliusg034/leethub/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/juliusg034/leethub/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/juliusg034/leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/juliusg034/leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/juliusg034/leethub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/juliusg034/leethub/tree/master/0238-product-of-array-except-self) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/juliusg034/leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/juliusg034/leethub/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -114,5 +116,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/juliusg034/leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/juliusg034/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
