@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/juliusg034/leethub/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/juliusg034/leethub/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/juliusg034/leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/juliusg034/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/juliusg034/leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/juliusg034/leethub/tree/master/0169-majority-element) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/juliusg034/leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/juliusg034/leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/juliusg034/leethub/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/juliusg034/leethub/tree/master/0739-daily-temperatures) |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/juliusg034/leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/juliusg034/leethub/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/juliusg034/leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
