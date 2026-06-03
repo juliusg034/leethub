@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/juliusg034/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/juliusg034/leethub/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/juliusg034/leethub/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/juliusg034/leethub/tree/master/0242-valid-anagram) |
 | [3019-furthest-point-from-origin](https://github.com/juliusg034/leethub/tree/master/3019-furthest-point-from-origin) |
 ## Divide and Conquer
