@@ -1,15 +1,23 @@
+use std::collections::HashMap;
+
 impl Solution {
     pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
         // this is a two pointer problem
         // let's try brute force solution first
+        // for the second try lets use the hashmap
 
-        for i in 0..nums.len() {
-            for j in i + 1..nums.len() {
-                if nums[i] + nums[j] == target {
-                    return vec![i as i32, j as i32]
-                }
+        let mut indexes = HashMap::new();
+
+        for (i, &num) in nums.iter().enumerate() {
+            let compliment = target - num;
+
+            if let Some(&j) = indexes.get(&compliment) {
+                return vec![j as i32, i as i32];
             }
+
+            indexes.insert(num, i);
         }
+
         vec![]
     }
 }
