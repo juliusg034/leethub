@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-build-an-array-with-stack-operations](https://github.com/juliusg034/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/juliusg034/leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/juliusg034/leethub/tree/master/1580-shuffle-the-array) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/juliusg034/leethub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/juliusg034/leethub/tree/master/2058-concatenation-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/juliusg034/leethub/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2721-sum-of-distances](https://github.com/juliusg034/leethub/tree/master/2721-sum-of-distances) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/juliusg034/leethub/tree/master/1552-build-an-array-with-stack-operations) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/juliusg034/leethub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/juliusg034/leethub/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/juliusg034/leethub/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/juliusg034/leethub/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/juliusg034/leethub/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/juliusg034/leethub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -152,4 +155,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/juliusg034/leethub/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/juliusg034/leethub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
