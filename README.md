@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/juliusg034/leethub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/juliusg034/leethub/tree/master/2432-number-of-zero-filled-subarrays) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/juliusg034/leethub/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,4 +160,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/juliusg034/leethub/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/juliusg034/leethub/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/juliusg034/leethub/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
