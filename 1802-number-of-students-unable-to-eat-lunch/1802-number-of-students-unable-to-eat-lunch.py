@@ -1,22 +1,18 @@
 class Solution:
     def countStudents(self, students: List[int], sandwiches: List[int]) -> int:
-        # circle = 0
-        # square = 1
-        rotation = 0
+        counts = {}
 
-        while len(students) > 0:
-            if sandwiches[0] == students[0]:
-                sandwiches.pop(0)
-                students.pop(0)
-                rotation = 0
-            else:
-                back = students.pop(0)
-                students.append(back)
-                rotation += 1
-            
-            if rotation == len(students):
+        # map containing preference -> numbers of students
+        for preference in students:
+            counts[preference] = counts.get(preference, 0) + 1
+
+        remaining_students = len(sandwiches)
+        for sandwich in sandwiches:
+            if counts.get(sandwich, 0) == 0:
                 break
-        
-        return len(students)
 
+            remaining_students -= 1
+            counts[sandwich] -= 1
+        
+        return remaining_students
 
